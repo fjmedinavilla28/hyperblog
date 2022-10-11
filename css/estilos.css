@@ -2,8 +2,13 @@ body
 {
     color: #333;
     text-align: center;
+<<<<<<< HEAD
     font-family: "arial";
     font-size: 20px;
+=======
+    font-family: "Arial";
+    font-size: 17px;
+>>>>>>> cabecera
     margin: 0;
     padding: 0;
 }
